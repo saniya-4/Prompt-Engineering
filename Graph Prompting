@@ -1,0 +1,26 @@
+in this type of prompting we provide the prompt to the llm in the form of the graph
+where node represent the entites or things
+edge represent the relation between these entites
+for the example
+Imagine this example
+Suppose you give an AI these facts:
+- Saniya studies at Chitkara University.
+- Chitkara University is in Punjab.
+- Punjab is a state in India.
+We can represent these facts as a graph.
+Saniya
+
+studies at ↓
+Chitkara University
+
+located in ↓
+Punjab
+
+is a state in ↓
+India
+
+
+A graph contains three important things:
+- Nodes: The entities, such as Saniya, Chitkara University, Punjab, and India.
+- Edges: The connections between entities, such as "studies at" and "located in."
+- Relationships: The meaning of each connection.
