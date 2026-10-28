@@ -1,0 +1,6 @@
+Multi represents multiple inputs
+modal-> a type or form of information
+COT->a reasoning approach that breaks a problem into intermediate steps
+Multimodal CoT is a prompting technique in which an AI uses information from multiple types of input, such as text and images, to reason through a problem and produce an answer.
+for example we can give a image of triangle and ask the ai to calculate the area so the ai first extract the details from the image and then the text in which we have asked for the area so this is the example of
+multiple inputs
